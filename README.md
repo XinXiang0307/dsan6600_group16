@@ -27,7 +27,7 @@ The repository has the following structure:
 
 ## Contributions
 
-- Mingqian Liu is responsible for literature search, model design, and report writing，and is the team leader.
+- Mingqian Liu is responsible for literature search, model design, and report writing, and is the team leader.
 - Xin Xiang is responsible for data and image preprocessing, visualization process and report writing.
 - Tianqi Zhou is responsible for literature search, model introduction, and report writing.
 - Yanfeng Zhang was responsible for model tuning, result presentation, and report writing.
